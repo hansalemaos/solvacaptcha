@@ -2,7 +2,9 @@
 
 ## pip install solvacaptcha 
 
-#### Tested against Windows 10 / Python 3.10 / Anaconda 
+#### Tested against Windows 10 / Python 3.10 / Anaconda
+
+# IMPORTANT: WORKS WITH ANY BROWSER, NOT ONLY OPERAGX
 
 ```python
 
