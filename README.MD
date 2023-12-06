@@ -5,7 +5,7 @@
 #### Tested against Windows 10 / Python 3.10 / Anaconda
 
 # IMPORTANT: WORKS WITH ANY BROWSER, NOT ONLY OPERAGX
-
+### I used their VPN to make sure that I get caught every time (captcha)
 ```python
 
 This function automates the process of solving reCAPTCHA challenges on web pages.
